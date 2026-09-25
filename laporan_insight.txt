@@ -1,0 +1,20 @@
+LAPORAN ANALISIS ONLINE SHOP
+========================================
+Dataset: 15 baris | Periode: 2023-01-01 sampai 2023-01-05
+Wilayah: Jakarta, Bandung, Surabaya
+Produk: Produk A, Produk B, Produk C
+
+Produkt Terlaris:
+  - Produk C: 530
+  - Produk B: 370
+  - Produk A: 260
+
+Wilayah Teratas:
+  - Surabaya: 530
+  - Bandung: 370
+  - Jakarta: 260
+
+Rekomendasi:
+  - Fokus stok & promo di Jakarta.
+  - Evaluasi harga Produk A & B agar lebih kompetitif.
+  - Perlu data lebih panjang untuk analisis musiman yang valid.

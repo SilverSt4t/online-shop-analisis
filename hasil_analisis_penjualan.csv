@@ -1,16 +1,16 @@
-Tanggal,Produk,Harga,Jumlah,Wilayah,Bulan,Churn
-2023-01-01,Produk A,100000,50,Jakarta,2023-01,True
-2023-01-01,Produk B,75000,80,Bandung,2023-01,True
-2023-01-01,Produk C,50000,120,Surabaya,2023-01,True
-2023-01-02,Produk A,100000,45,Jakarta,2023-01,False
-2023-01-02,Produk B,75000,70,Bandung,2023-01,False
-2023-01-02,Produk C,50000,110,Surabaya,2023-01,False
-2023-01-03,Produk A,95000,55,Jakarta,2023-01,False
-2023-01-03,Produk B,75000,85,Bandung,2023-01,False
-2023-01-03,Produk C,50000,100,Surabaya,2023-01,False
-2023-01-04,Produk A,95000,40,Jakarta,2023-01,False
-2023-01-04,Produk B,75000,60,Bandung,2023-01,False
-2023-01-04,Produk C,50000,90,Surabaya,2023-01,False
-2023-01-05,Produk A,90000,70,Jakarta,2023-01,False
-2023-01-05,Produk B,75000,75,Bandung,2023-01,False
-2023-01-05,Produk C,50000,110,Surabaya,2023-01,False
+Tanggal,Produk,Harga,Jumlah,Wilayah,Bulan
+2023-01-01,Produk A,100000,50,Jakarta,2023-01
+2023-01-01,Produk B,75000,80,Bandung,2023-01
+2023-01-01,Produk C,50000,120,Surabaya,2023-01
+2023-01-02,Produk A,100000,45,Jakarta,2023-01
+2023-01-02,Produk B,75000,70,Bandung,2023-01
+2023-01-02,Produk C,50000,110,Surabaya,2023-01
+2023-01-03,Produk A,95000,55,Jakarta,2023-01
+2023-01-03,Produk B,75000,85,Bandung,2023-01
+2023-01-03,Produk C,50000,100,Surabaya,2023-01
+2023-01-04,Produk A,95000,40,Jakarta,2023-01
+2023-01-04,Produk B,75000,60,Bandung,2023-01
+2023-01-04,Produk C,50000,90,Surabaya,2023-01
+2023-01-05,Produk A,90000,70,Jakarta,2023-01
+2023-01-05,Produk B,75000,75,Bandung,2023-01
+2023-01-05,Produk C,50000,110,Surabaya,2023-01
